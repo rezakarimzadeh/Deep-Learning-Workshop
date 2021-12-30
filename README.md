@@ -8,7 +8,7 @@ ICAHT is the first international congress on
 In this congress I was instructor in deeplearning workshop.
 
 ## Topics
-* Multi layer perceptron (MLP) 
+* Multi layer perceptron (MLP) \\
 	A regresion for sin function and classificaiton of MNIST dataset.
 * Convolutional Neural Networks (CNNs)
 * Variational Auto Encoders (VAE)
