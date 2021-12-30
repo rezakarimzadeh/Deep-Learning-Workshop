@@ -16,7 +16,7 @@ In this congress I was instructor in deeplearning workshop.
 	Unet implementation for DRIVE dataset segmentation
 * Variational Auto Encoders (VAE) \ 
 	Generate MNIST dataset images with VAE
-* Generative Adversarial Networks (GANs)\ 
+* Generative Adversarial Networks (GANs) \ 
 	Generate MNIST dataset images with GAN
 
 All the codes were implemented with Tensorflow 2 and Keras.
