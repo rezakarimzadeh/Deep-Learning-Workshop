@@ -10,8 +10,8 @@ In this congress I was instructor in deeplearning workshop.
 ## Topics
 * Multi layer perceptron (MLP) \
 	A regresion model for sin function \
-	classificaiton of MNIST dataset (a study on benefits of regularization terms 'Dropout' and 'Batchnormalization')\
-* Convolutional Neural Networks (CNNs) \ classificaiton of MNIST dataset (comparison with MLP models)\
+	classificaiton of MNIST dataset (a study on benefits of regularization terms 'Dropout' and 'Batchnormalization')
+* Convolutional Neural Networks (CNNs) <br /> classificaiton of MNIST dataset (comparison with MLP models)\
 	Unet implementation for DRIVE dataset segmentation
 * Variational Auto Encoders (VAE) \ Generate MNIST dataset images with VAE
 * Generative Adversarial Networks (GANs) \ Generate MNIST dataset images with GAN
