@@ -13,8 +13,9 @@ In this congress I was instructor in deeplearning workshop.
 	classificaiton of MNIST dataset (a study on benefits of regularization terms 'Dropout' and 'Batchnormalization')
 * Convolutional Neural Networks (CNNs) <br /> classificaiton of MNIST dataset (comparison with MLP models)\
 	Unet implementation for DRIVE dataset segmentation
-* Variational Auto Encoders (VAE) \ Generate MNIST dataset images with VAE
-* Generative Adversarial Networks (GANs) \ Generate MNIST dataset images with GAN
+* Variational Auto Encoders (VAE) <br /> Generate MNIST dataset images with VAE
+* Generative Adversarial Networks (GANs) <br />
+ Generate MNIST dataset images with GAN
 
 All the codes were implemented with Tensorflow 2 and Keras.
 
